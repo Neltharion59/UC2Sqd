@@ -1,26 +1,24 @@
 @startuml
-actor user
 actor car_driver
-actor user_logs
 actor customer
+actor purchaser
 actor student
-actor delivery_driver
-actor customer_proceeds
 actor client
-participant system
-activate system
-user_logs -> system: into_e-commerce_platform()
-activate user_logs
-user -> system: browse_available_products()
-activate user
-user -> system: select_option_add_product_to_wishlist()
-system -> user: add()
-activate user
-deactivate user
-user -> system: view_wishlist_at_time()
-user -> system: manage_wishlist_at_time()
-participant personalized_product_recommendations_based_on_wishlist_items
-system -> personalized_product_recommendations_based_on_wishlist_items: provide()
-activate personalized_product_recommendations_based_on_wishlist_items
-deactivate personalized_product_recommendations_based_on_wishlist_items
+actor atm_issues
+participant ticket_machine
+activate ticket_machine
+car_driver -> ticket_machine: enter_coin_in_ticket_machine()
+activate car_driver
+participant coin
+ticket_machine -> coin: validate()
+activate coin
+deactivate coin
+ticket_machine -> car_driver: indicate()
+activate car_driver
+deactivate car_driver
+car_driver -> ticket_machine: press_button_retrieve_parking_ticket()
+participant parking_ticket
+ticket_machine -> parking_ticket: print()
+activate parking_ticket
+deactivate parking_ticket
 @enduml

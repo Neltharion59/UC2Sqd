@@ -1,21 +1,15 @@
-user logs
-into
-e-commerce platform
-user
-browse
-available products
-user
-select
-option add product to wishlist
-system
-add
-selected product to user wishlist
-user
-view
-wishlist at time
-user
-manage
-wishlist at time
-system
-provide
-personalized product recommendations based on wishlist items
+car driver
+enter
+coin in ticket machine
+ticket machine
+validate
+coin
+ticket machine
+indicate
+when car driver park
+car driver
+press
+button retrieve parking ticket
+ticket machine
+print
+parking ticket
