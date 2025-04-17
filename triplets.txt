@@ -1,18 +1,21 @@
+user logs
+into
+e-commerce platform
+user
+browse
+available products
+user
+select
+option add product to wishlist
 system
-display
-list of discount offers
-customer
-choose
-specific discount offer
-system displays discount
-offer
-details
-customer clicks
-on
-add to basket button
+add
+selected product to user wishlist
+user
+view
+wishlist at time
+user
+manage
+wishlist at time
 system
-check
-number of available discount offers
-system
-insert
-discount offer to basket
+provide
+personalized product recommendations based on wishlist items

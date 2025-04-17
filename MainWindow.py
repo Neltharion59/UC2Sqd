@@ -10,6 +10,7 @@ from ErrorWindow import ErrorWindow
 from ProjectDictionary import ProjectDictionary
 from StepWindow import StepWindow
 from utilities import readFilePlain
+from json import dumps
 
 
 class MainWindow(QScrollArea):
@@ -284,6 +285,9 @@ class MainWindow(QScrollArea):
         self.exit = False
         self.original = []
         sp = self.use_case.toPlainText().lower().split('\n')
+
+        print('[UC2SqD]')
+        print(self.use_case.toPlainText())
 
         if self.conf.mode == 'OIE' and self.conf.engine == 'spacy':
             self.exit = True
