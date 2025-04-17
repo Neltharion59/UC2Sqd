@@ -1,0 +1,10 @@
+1. Customer selects the "Make Reservation" option.
+2. System presents a list of available reservation times.
+3. Customer selects a time for the reservation.
+4. System checks for table availability at the selected time.
+5. Customer specifies the number of people in the party.
+6. Customer confirms the reservation.
+7. System sends a reservation request to the restaurant.
+8. System receives the reservation request.
+9. Staff checks availability.
+10. System notifies the customer of the reservation confirmation.

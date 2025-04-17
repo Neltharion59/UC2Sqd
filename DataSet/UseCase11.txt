@@ -1,0 +1,7 @@
+1.User logs into the e-commerce platform.
+2.User browses available products.
+3.User selects the option to add a product to their wishlist.
+4.System adds the selected product to the user wishlist.
+5.User view their wishlist at any time.
+6.User manage their wishlist at any time.
+7.System provides personalized product recommendations based on wishlist items.

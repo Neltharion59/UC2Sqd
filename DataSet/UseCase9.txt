@@ -1,0 +1,5 @@
+1. The Car Driver enters a coin in the Ticket Machine.
+2. The Ticket Machine validates the coin.
+3. The Ticket Machine indicates until when the Car Driver can park.
+4. The Car Driver presses the button to retrieve the parking ticket.
+5. The Ticket Machine prints the parking ticket.

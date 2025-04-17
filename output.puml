@@ -1,0 +1,26 @@
+@startuml
+actor customer
+actor customer_clicks
+participant system_displays_discount
+activate system_displays_discount
+participant list_of_discount_offers
+system_displays_discount -> list_of_discount_offers: display()
+activate list_of_discount_offers
+deactivate list_of_discount_offers
+customer -> system_displays_discount: choose_specific_discount_offer()
+activate customer
+participant details
+system_displays_discount -> details: offer()
+activate details
+deactivate details
+customer_clicks -> system_displays_discount: on_add_to_basket_button()
+activate customer_clicks
+participant number_of_available_discount_offers
+system_displays_discount -> number_of_available_discount_offers: check()
+activate number_of_available_discount_offers
+deactivate number_of_available_discount_offers
+participant discount_offer_to_basket
+system_displays_discount -> discount_offer_to_basket: insert()
+activate discount_offer_to_basket
+deactivate discount_offer_to_basket
+@enduml

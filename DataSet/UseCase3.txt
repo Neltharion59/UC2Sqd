@@ -1,0 +1,11 @@
+1. Student logs into the educational technology platform.
+2. Student selects the option to take a quiz.
+3. Educational technology platform presents the student with the quiz questions.
+4. Student answers the questions.
+5. Student submits the quiz.
+6. Educational technology platform evaluates the student answers.
+7. Educational technology platform provides instant feedback on their performance.
+8. Educational technology platform records the quiz results.
+9. Educational technology platform makes them available for the all users.
+10. Student views the feedback.
+11. Student reviews their answers.

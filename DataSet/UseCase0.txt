@@ -1,0 +1,6 @@
+1. System displays a list of discount offers.
+2. Customer chooses a specific discount offer.
+3. System displays discount offer details.
+4. Customer clicks on "Add to basket" button.
+5. The system checks a number of available discount offers.
+6. The system inserts the discount offer to the basket.

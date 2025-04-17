@@ -1,0 +1,8 @@
+1. Purchaser selects option "buy stocks" over the web.
+2. Portfolio system gets name of web site to use from user.
+3. Portfolio system opens web connection to the site.
+4. Purchaser browses the web site.
+5. Purchaser buys stock from the web site.
+6. Portfolio system intercepts responses from the web site.
+7. Portfolio system updates the purchaser's portfolio.
+8. Portfolio system shows the user the new portfolio standing.

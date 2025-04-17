@@ -1,0 +1,6 @@
+1. The customer enters data about the user.
+2. The system includes data in the whitelist.
+3. The system checks correctnes of the given IP address on the user device.
+4. The system checks status of the given IP address on the user device.
+5. The system places the user in the whitelist.
+6. The system informs about the successful inclusion in the whitelist.

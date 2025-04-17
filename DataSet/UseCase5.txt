@@ -1,0 +1,9 @@
+1. Customer logs in to the support system.
+2. Customer navigates to the "Submit Support Ticket" section.
+3. Customer provides a title and description of the technical issue.
+4. Customer selects the priority level for the issue.
+5. Customer attaches relevant files or screenshots.
+6. Customer submits the support ticket.
+7. Support System acknowledges receipt of the ticket and assigns a ticket number.
+8. Support System sends an email confirmation to the customer with the ticket details.
+9. Support System routes the ticket to the appropriate support team.

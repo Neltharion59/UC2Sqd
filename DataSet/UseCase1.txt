@@ -1,0 +1,12 @@
+1. The Organizer logs into the booking management system.
+2. The System displays upcoming events and booking options.
+3. The Organizer selects a specific event to manage bookings.
+4. The System displays available booking slots and services.
+5. The Organizer reserve desired booking slots and services.
+6. The System checks the availability.
+7. The System confirms the bookings.
+8. The System inserts confirmed bookings into the event itinerary.
+9. The Organizer receives confirmation and updates attendees.
+10. The System generates booking reports and invoices.
+11. The Organizer reviews the reports.
+12. The Organizer manages the payments.

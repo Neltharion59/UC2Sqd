@@ -1,0 +1,8 @@
+1. Customer accesses the hotel booking system.
+2. Customer enters the destination, check-in date, and check-out date.
+3. Hotel booking system searches for available rooms within the specified date range.
+4. Customer selects a room from the list of available options.
+5. Customer provides guest information, including name and contact details.
+6. Customer confirms the reservation.
+7. Hotel booking system reserves the selected room.
+8. Hotel booking system sends a confirmation to the customer via email.

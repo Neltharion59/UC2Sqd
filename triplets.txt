@@ -1,0 +1,18 @@
+system
+display
+list of discount offers
+customer
+choose
+specific discount offer
+system displays discount
+offer
+details
+customer clicks
+on
+add to basket button
+system
+check
+number of available discount offers
+system
+insert
+discount offer to basket

@@ -1,0 +1,14 @@
+1. The client inserts a payment card into the ATM.
+2. The ATM verifies the card type.
+3. The ATM verifies the validity of the card.
+4. The client enters a personal identification number.
+5. The ATM verifies the personal identification number.
+6. The ATM displays a list of actions.
+7. The ATM offers typical entered amounts.
+8. The client chooses the amount.
+9. The ATM checks the amount on the account.
+10. The ATM processes the completed payment.
+11. The ATM returns the card.
+12. The client selects a card.
+13. The ATM issues the required amount of money.
+14. The client withdraws the money.

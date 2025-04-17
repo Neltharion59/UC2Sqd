@@ -1,0 +1,19 @@
+1. Customer logs in to the food delivery application.
+2. Customer searches for nearby restaurants.
+3. Customer selects a restaurant from a list.
+4. Food Delivery Application displays the restaurant menu.
+5. Customer adds items from the menu to the order.
+6. Customer specifies order details.
+7. Customer specifies delivery address.
+8. Customer specifies payment method.
+9. Customer reviews the order.
+10. Customer proceeds to checkout.
+11. Food Delivery Application sends the order to the selected restaurant.
+12. Delivery driver confirms the order.
+13. Delivery driver provides an estimated delivery time.
+14. Food Delivery Application assigns a delivery driver.
+15. Customer receives order confirmation with the estimated delivery time.
+16. Delivery driver picks up the order from the restaurant.
+17. Delivery driver delivers the order to the customer's address.
+18. Customer receives the order.
+19. Food Delivery Application processes the payment.
